@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - print "and that piece of art is useful" - Dora korpar, 2015-10-19",
- * doc: followed by a new line, to standard error.
- * Return: Always 1.
+ * main - prints to string
+ * Description: Prints "and that piece of art is useful.." without puts
+ * Return: 1
  */
+
 int main(void)
 {
 	char *s = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
