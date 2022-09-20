@@ -5,7 +5,6 @@
  * updates the value it points to 98.
  *
  * On: This is the entry
- *
  */
 
 void reset_to_98(int *n)
